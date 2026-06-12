@@ -1,4 +1,4 @@
-# 📊 Product Data Analysis & Interactive Excel Dashboard
+# Product Data Analysis & Interactive Excel Dashboard
 
 ## Overview
 
@@ -6,7 +6,7 @@ This project focuses on cleaning, enriching, analyzing, and visualizing product 
 
 ---
 
-## 🧹 Data Cleaning
+## Data Cleaning
 
 The dataset was cleaned and standardized to improve consistency and accuracy.
 
@@ -17,7 +17,7 @@ The dataset was cleaned and standardized to improve consistency and accuracy.
 
 ---
 
-## 🔧 Data Enrichment
+## Data Enrichment
 
 Additional calculated fields were created to enhance analysis capabilities.
 
@@ -53,7 +53,7 @@ Products were categorized according to discount percentage:
 
 ---
 
-## 📈 Descriptive Analysis
+## Descriptive Analysis
 
 ### Overall Metrics
 
@@ -78,7 +78,7 @@ Calculated:
 
 ---
 
-## 📊 Trend Analysis
+## Trend Analysis
 
 ### Discount vs Reviews
 
@@ -97,7 +97,7 @@ Generated:
 
 ---
 
-## 🚀 Product Performance Analysis
+## Product Performance Analysis
 
 ### Top Discounted Products
 
@@ -120,7 +120,7 @@ Compared products with high discounts against products with low discounts based 
 
 ---
 
-# 📋 Interactive Excel Dashboard
+# Interactive Excel Dashboard
 
 ## Dashboard Features
 
@@ -133,7 +133,7 @@ An interactive Excel dashboard was developed using:
 
 ---
 
-## 📌 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 The dashboard displays:
 
@@ -144,7 +144,7 @@ The dashboard displays:
 
 ---
 
-## 📊 Dashboard Sections
+## Dashboard Sections
 
 ### 1. Product Performance
 
@@ -179,7 +179,7 @@ Breakdown of products by:
 
 ---
 
-## 📈 Visualizations Used
+## Visualizations Used
 
 The dashboard incorporates:
 
@@ -195,16 +195,3 @@ Used to highlight:
 * Low Ratings
 * Other key performance indicators
 
----
-
-## 🎯 Project Outcome
-
-This analysis provides insights into:
-
-* Product pricing strategies
-* Discount effectiveness
-* Customer engagement patterns
-* Product performance trends
-* Category-level performance
-
-The interactive dashboard enables users to filter, explore, and compare product data for informed decision-making.
